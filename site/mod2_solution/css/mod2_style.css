@@ -23,8 +23,10 @@ p {
   margin-left: auto;
   font-family: Helvetica;
   color: white;
+  padding: 10%;
 }
 
+div {border-color: transparent;}
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
