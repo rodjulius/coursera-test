@@ -25,7 +25,12 @@ p {
   color: white;
   padding: 5%;
 }
-
+section{
+	border: 1px solid black;
+	color:#C70E11;
+	float: right;
+	clear: right;
+}
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
